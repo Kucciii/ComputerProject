@@ -28,6 +28,7 @@ class proj8 {
                     }
                     System.out.println();
                     a2--;
+                    c = 'a';
                 }
                 break;
             case 2:
